@@ -2,10 +2,7 @@
 laravel-admin extension
 ======
 
-<<<<<<< HEAD
-...
-=======
->>>>>>> 315b8cf2fd206c83aab59d925cdb12e35fd39d36
+...000
 
 =======
 # laravelsmartadmin
